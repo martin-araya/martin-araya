@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-araya)
-[![Upwork](https://img.shields.io/badge/Upwork-Rising_Talent_🏆_Top_5%25-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
+[![Upwork](https://img.shields.io/badge/Upwork-Rising_Talent_🏆_Top_5%25-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01512099985aa04b61)
 [![Email](https://img.shields.io/badge/martin.araya.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.araya.es)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=martin-araya&color=6366F1&style=flat-square&label=Profile+Views)
@@ -24,32 +24,32 @@ package main
 import "fmt"
 
 type Developer struct {
-	Name              string
-	Age               int
-	Location          string
-	CurrentRole       string
-	Background        string
-	Education         string
-	Superpower        string
-	CurrentlyBuilding []string
+ Name              string
+ Age               int
+ Location          string
+ CurrentRole       string
+ Background        string
+ Education         string
+ Superpower        string
+ CurrentlyBuilding []string
 }
 
 func main() {
-	me := Developer{
-		Name:        "Martín Araya",
-		Age:         25,
-		Location:    "Santiago, Chile 🇨🇱",
-		CurrentRole: "Developer @ Symlab",
-		Background:  "Machinery Engineer ➡️ Full Stack Developer",
-		Education:   "BSc Computer Science @ UNAB (2026)",
-		Superpower:  "Systems thinking applied to software",
-		CurrentlyBuilding: []string{
-			"RAPI64 — personal project 🔧",
-			"Billing Portal — Angular prototype 🧾",
-		},
-	}
-	fmt.Printf("Hey there! I'm %s 👋\n", me.Name)
-	fmt.Println("I think in systems. I ship in code.")
+ me := Developer{
+  Name:        "Martín Araya",
+  Age:         25,
+  Location:    "Santiago, Chile 🇨🇱",
+  CurrentRole: "Developer @ Symlab",
+  Background:  "Machinery Engineer ➡️ Full Stack Developer",
+  Education:   "BSc Computer Science @ UNAB (2026)",
+  Superpower:  "Systems thinking applied to software",
+  CurrentlyBuilding: []string{
+   "RAPI64 — personal project 🔧",
+   "Billing Portal — Angular prototype 🧾",
+  },
+ }
+ fmt.Printf("Hey there! I'm %s 👋\n", me.Name)
+ fmt.Println("I think in systems. I ship in code.")
 }
 ```
 
@@ -162,12 +162,8 @@ func main() {
 <div align="center">
 
 ### 🏦 Banco Bice — Internal CRM Form System
+>
 > via **ARES IT SPA** · Santiago, Chile
-
-
-
-
-
 
 Client management form system for one of Chile's major banks. Delivered in **2 months**, full Agile cycle, end-to-end ownership.
 
@@ -175,34 +171,19 @@ Client management form system for one of Chile's major banks. Delivered in **2 m
 
 ### 🔨 Virtual Auction MVP — *Upwork Rising Talent*
 
-
-
-
-
-
-
-
 Full MVP solo: requirements → architecture → budget → dev → deploy. Earned **Rising Talent (Top 5% worldwide)** on Upwork 🏆
 
 ***
 
 ### ⚙️ WebLogic → Kubernetes / OpenShift Migration
+>
 > via **ARES IT SPA**
-
-
-
-
 
 Critical enterprise infrastructure migration + Java 5 → Java 8 EE modernization with **Nagios** and **JMX** monitoring plugins.
 
 ***
 
 ### 🛒 E-commerce Platform (Confidential)
-
-
-
-
-
 
 4-month full-cycle e-commerce build: design → architecture → deployment. Agile team, confidential client.
 
@@ -321,8 +302,6 @@ jobs:
 ***
 
 <div align="center">
-
-
 
 *Martín Araya · Santiago, Chile · Open to freelance & collaborations*
 
