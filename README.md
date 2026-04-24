@@ -290,6 +290,10 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - develop
+      - main
 
 permissions:
   contents: write
